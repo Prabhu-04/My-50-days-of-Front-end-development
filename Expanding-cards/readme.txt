@@ -1,0 +1,1 @@
+This is simple project where I created these cards that expand when clicked while alse revealing their caption.
